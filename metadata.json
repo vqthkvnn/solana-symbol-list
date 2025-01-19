@@ -3,7 +3,7 @@
   "symbol": "TESTSTST",
   "description": "Fully for testing purposes only",
   "image": "https://token-creator-lac.vercel.app/token_image.png",
-  "social_media": {
+  "extensions": {
     "twitter": "https://twitter.com/your_handle",
     "discord": "https://discord.gg/your_invite",
     "website": "https://yourwebsite.com"
