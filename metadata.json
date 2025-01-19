@@ -1,4 +1,7 @@
 {
+  "name": "A test token github",
+  "symbol": "TESTSTST",
+  "description": "Fully for testing purposes only",
   "image": "https://token-creator-lac.vercel.app/token_image.png",
   "social_media": {
     "twitter": "https://twitter.com/your_handle",
