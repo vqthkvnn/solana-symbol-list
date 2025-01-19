@@ -7,5 +7,11 @@
     "twitter": "https://twitter.com/your_handle",
     "discord": "https://discord.gg/your_invite",
     "website": "https://yourwebsite.com"
-  }
+  },
+  "socials": {
+      "twitter": "https://twitter.com/YourTwitterHandle",
+      "discord": "https://discord.gg/YourDiscordInvite",
+      "instagram": "https://instagram.com/YourInstagramHandle",
+      "website": "https://yourwebsite.com"
+    }
 }
